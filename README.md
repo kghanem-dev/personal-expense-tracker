@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-A beginner-friendly Python CLI app to track your personal expenses by category. Easily add, list, filter, and summarize expenses — all with persistent data storage using JSON.
+A beginner-friendly Python CLI app to track your personal expenses by category. Easily add, list, filter, and summarize expenses. All with persistent data storage using JSON.
 
 ## Features
 
@@ -40,7 +40,7 @@ pip install colorama
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-expense-tracker.git
+git clone https://github.com/kghanem-dev/personal-expense-tracker.git
 cd personal-expense-tracker
 ```
 
